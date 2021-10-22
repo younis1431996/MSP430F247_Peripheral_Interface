@@ -1,0 +1,1 @@
+"./button/button.obj" "./led/led.obj" "./src/main.obj" "../lnk_msp430f247.cmd" -llibc.a 
